@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "APPLAND",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
